@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rx.EntityFrameworkCore", "Rx.EntityFrameworkCore\Rx.EntityFrameworkCore.csproj", "{2266C682-ADC8-419A-9B2C-87373873D1D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rx.EntityFrameworkCore.Api", "Rx.EntityFrameworkCore.Api\Rx.EntityFrameworkCore.Api.csproj", "{FC8F4E9B-D1B5-4662-BE4A-9487D296893D}"
+		{FC8F4E9B-D1B5-4662-BE4A-9487D296893D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8F4E9B-D1B5-4662-BE4A-9487D296893D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8F4E9B-D1B5-4662-BE4A-9487D296893D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14BF4512-202B-4F2A-8957-3DD0EB559617}
+	EndGlobalSection
+EndGlobal
